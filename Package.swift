@@ -39,7 +39,7 @@ let package = Package(
         .package(url: "https://github.com/apple/swift-nio-http2.git", from: "1.11.0"),
         
         // Useful code around SwiftNIO.
-        .package(url: "https://github.com/hevi-public/swift-nio-extras.git", from: "1.0.0"),
+        .package(url: "https://github.com/hevi-public/swift-nio-extras.git", from: "1.0.1"),
         
         // Swift logging API
         .package(url: "https://github.com/apple/swift-log.git", from: "1.0.0"),
